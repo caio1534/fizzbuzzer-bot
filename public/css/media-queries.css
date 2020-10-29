@@ -1,0 +1,40 @@
+@media only screen and (max-width: 767px) {
+
+    h1 {
+        font-size: 1.8rem !important;
+        padding-top: 1vh;
+    }
+
+    h4 {
+        font-size: 1.5rem !important;
+        padding-top: 1vh;
+    }
+
+    .nav-link {
+        padding: 0 !important;
+        margin-top: 1.5vh;
+    }
+
+    .smallerP {
+        font-size: 0.9rem;
+    }
+
+    .boxIcon, .caioImg {
+        height: 25vh;
+        width: 25vh;
+    }
+
+    .form-group {
+        margin-top: 2.2vh;
+    }
+
+    .form-control-lg {
+        font-size: 0.95rem !important;
+        text-align: center;
+    }
+
+    .fixed-bottom {
+        padding-top: 5vh;
+        position: relative !important;
+    }
+}
